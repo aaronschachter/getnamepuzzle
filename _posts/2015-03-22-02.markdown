@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 2
+img: win.png
+alt: Winning a custom NamePuzzle
+description: You win when you spell it correctly!
+---

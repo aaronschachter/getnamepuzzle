@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 1
+img: play.png
+alt: Playing a custom NamePuzzle
+description: Enter any name you'd like, up to 10 characters.
+---

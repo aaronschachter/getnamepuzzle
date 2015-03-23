@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 3
+img: list.png
+alt: Maintaining custom NamePuzzle
+description: Add as many NamePuzzles as you want to.
+---
