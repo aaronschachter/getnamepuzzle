@@ -1,8 +1,7 @@
 # Site settings
 title: NamePuzzle
 email: giveupyourdream@gmail.com
-url: https://aaronschachter.github.io/getnamepuzzle
-baseurl: /getnamepuzzle
+url: http://www.getnamepuzzle.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
@@ -34,7 +33,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'NamePuzzle is an app by <a href="http://www.newschoololdschool.com">New School Old School</a>.'
 
 # Build settings
 markdown: kramdown
